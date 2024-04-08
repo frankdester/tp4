@@ -3,5 +3,6 @@ animation de reunion
 linux
 jira
 sysml
+architecture SI
 git
 //fichier de parcours de formation
