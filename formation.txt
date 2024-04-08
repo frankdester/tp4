@@ -1,0 +1,6 @@
+agile
+animation de reunion
+linux
+jira
+sysml
+git
