@@ -1,1 +1,1 @@
-cette branche contient un fichier domaines, formation et nom
+Cet branch contient un fichier domaines, formation et nom
